@@ -1,0 +1,27 @@
+{
+    "bildung": {
+        "title": "BILDUNG & FORSCHUNG",
+        "icon": "📚",
+        "questions": "<ul><li>Was bräuchtet ihr in der Schule, um sicher mit Desinformation umzugehen?</li><li>Wie sollte Lernen zu diesem Thema aussehen?</li></ul>"
+    },
+    "social": {
+        "title": "SOCIAL PLATFORMS",
+        "icon": "📱",
+        "questions": "<ul><li>Was würde euch auf Social Media helfen, Fakes zu erkennen?</li><li>Wie könnten Plattformen besser gestaltet sein?</li></ul>"
+    },
+    "individuell": {
+        "title": "INDIV. VERANTWORTUNG",
+        "icon": "🧑",
+        "questions": "<ul><li>Was braucht es, damit Menschen vor dem Teilen kurz nachdenken?</li><li>Wie schaffen wir eine Kultur des Faktencheckens?</li></ul>"
+    },
+    "politik": {
+        "title": "POLITIK & RECHT",
+        "icon": "⚖️",
+        "questions": "<ul><li>Welche Regeln helfen, ohne die Meinungsfreiheit einzuschränken?</li><li>Was sollte die Politik tun?</li></ul>"
+    },
+    "kreativ": {
+        "title": "INNOVATION LAB",
+        "icon": "💡",
+        "questions": "<ul><li>Wenn ihr alles neu denken könntet – wie sähe eure Lösung aus?</li><li>Welche verrückte Idee könnte funktionieren?</li></ul>"
+    }
+}
